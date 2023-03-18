@@ -1,1 +1,1 @@
-# laporan.com
+# laporan.github.com
